@@ -45,7 +45,7 @@ Os exercícios trabalham os seguintes métodos:
 Se o projeto estiver no GitHub:
 
 ```bash
-git clone URL_DO_PROJETO
+git clone https://github.com/leo-gomes-dev/lista-exercicios-metodos-javascript.git
 ```
 
 Depois entre na pasta:
